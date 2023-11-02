@@ -14,13 +14,13 @@
     Amb aquestes dues bases de dades he procurat realitzar la unió de ambdós datasets de la millor manera y extreure dades intesants per a una posible futura fase del proyecte, com podría ser un model de ML o DL.
 
 
-    Trabajaremos con las siguientes versiones
+        Trabajaremos con las siguientes versiones
 
-    Pandas 2.0.2
-    Numpy 1.25.0
-    Seaborn 0.12.2
-    Sklearn 1.3.1
-    Python 3.11.3
+        Pandas 2.0.2
+        Numpy 1.25.0
+        Seaborn 0.12.2
+        Sklearn 1.3.1
+        Python 3.11.3
 
 2. Depuració de dades: Descripció detallada de les tècniques de preprocessat aplicades i els criteris d’avaluació utilitzats. 
 
