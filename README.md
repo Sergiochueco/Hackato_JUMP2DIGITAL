@@ -8,6 +8,7 @@
 1. Introducció: Presentació del conjunt de dades i de les variables seleccionades.
 
     He escollit les següents bases de dades per al repte:
+    
         - 2017_lloguer_preu_trim (conjunt base)
         - 2017_poblacio_exposada_barris_mapa_estrategic_soroll_bcn_long
 
