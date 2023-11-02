@@ -25,9 +25,9 @@
 
 3. Resultats: Presentació dels resultats obtinguts. 
         
-        Añadiré información próximante
+    Añadiré información próximante
 
 
 4. Conclusions: Principals inferències derivades dels resultats aconseguits.  
         
-        Añadiré información próximante
+    Añadiré información próximante
