@@ -5,7 +5,7 @@
 </p>
 
 
-<sumary> 1. Introducció: Presentació del conjunt de dades i de les variables seleccionades.</sumary>
+1. Introducció: Presentació del conjunt de dades i de les variables seleccionades.
 
     He escollit les següents bases de dades per al repte:
         - 2017_lloguer_preu_trim (conjunt base)
@@ -15,7 +15,7 @@
 
 
 
-<sumary> 2. Depuració de dades: Descripció detallada de les tècniques de preprocessat aplicades i els criteris d’avaluació utilitzats. </sumary>
+2. Depuració de dades: Descripció detallada de les tècniques de preprocessat aplicades i els criteris d’avaluació utilitzats. 
 
     Per una banda, el dataset de **lloguer**:
 
@@ -23,11 +23,11 @@
 
 
 
-<sumary> 3. Resultats: Presentació dels resultats obtinguts. </sumary>
+3. Resultats: Presentació dels resultats obtinguts. 
         
         Añadiré información próximante
 
 
-<sumary> 4. Conclusions: Principals inferències derivades dels resultats aconseguits.  </sumary>
+4. Conclusions: Principals inferències derivades dels resultats aconseguits.  
         
         Añadiré información próximante
