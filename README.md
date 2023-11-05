@@ -92,15 +92,15 @@
 3. Resultats: Presentació dels resultats obtinguts. 
         
 <p align="center">
-  <img align="center" width="200" src="https://raw.githubusercontent.com/Sergiochueco-94/Hackato_JUMP2DIGITAL/main/Images/analisis_precio.PNG" />
+  <img align="center" width="600" src="https://raw.githubusercontent.com/Sergiochueco-94/Hackato_JUMP2DIGITAL/main/Images/analisis_precio.PNG" />
 </p>
 
 <p align="center">
-  <img align="center" width="200" src="https://raw.githubusercontent.com/Sergiochueco-94/Hackato_JUMP2DIGITAL/main/Images/aconcepto_ruido.PNG" />
+  <img align="center" width="600" src="https://raw.githubusercontent.com/Sergiochueco-94/Hackato_JUMP2DIGITAL/main/Images/concepto_ruido.PNG" />
 </p>
 
 <p align="center">
-  <img align="center" width="200" src="https://raw.githubusercontent.com/Sergiochueco-94/Hackato_JUMP2DIGITAL/main/Images/seleccion_datos.PNG" />
+  <img align="center" width="600" src="https://raw.githubusercontent.com/Sergiochueco-94/Hackato_JUMP2DIGITAL/main/Images/seleccion_datos.PNG" />
 </p>
 
 
