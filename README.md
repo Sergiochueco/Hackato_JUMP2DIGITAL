@@ -5,7 +5,7 @@
 </p>
 
 
-1. Introducción: Presentación del conjunto de datos y de les variables seleccionadas.
+1. **Introducción**: Presentación del conjunto de datos y de les variables seleccionadas.
 
     He elegido las siguientes bases de datos para el reto:
     
@@ -24,7 +24,7 @@
         Sklearn 1.3.1
         Python 3.11.3
 
-2. Depuración de datos: Descripción detallada de las técnicas de preprocesamiento aplicadas y los criterios de evaluación utilizados.
+2. **Depuración de datos**: Descripción detallada de las técnicas de preprocesamiento aplicadas y los criterios de evaluación utilizados.
 
     Por un lado, el dataset de **lloguer**:
     
@@ -89,7 +89,7 @@
 
 
 
-3. Resultats: Presentació dels resultats obtinguts. 
+3. **Resultados**: Presentación de los resultados obtenidos. 
         
 <p align="center">
   <img align="center" width="600" src="https://raw.githubusercontent.com/Sergiochueco-94/Hackato_JUMP2DIGITAL/main/Images/analisis_precio.PNG" />
@@ -104,10 +104,11 @@
 </p>
 
 
-    Se añaden más resultados, en el apartado de conclusiones
+
+ Se añaden más resultados, en el apartado de conclusiones
 
 
-4. Conclusions: Principals inferències derivades dels resultats aconseguits.  
+4. **Conclusiones**: Principales inferencias derivadas de los resultados obtenidos.  
         
    Podemos observar como la mayoría de precio oscilan entre 600€ y 1000€ aprox (€/mes).La distribución es parecida a una distribución normal,lo que ayudará a nuestro futuro modelo,aunque un poco a la izquierda, pero tiene sentido que haya alquileres a precios más cercanos a la media que a precios más altos.
 
